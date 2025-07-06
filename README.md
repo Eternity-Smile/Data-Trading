@@ -42,22 +42,22 @@ Our protocol relies on zk-SNARKs generated with circom and snarkjs. We have prov
 
 Important: This is a required, one-time setup process.
 
-# Execute the setup script from the root directory
+## Execute the setup script from the root directory
 bash run_snark_setup.sh
 
 4. Set Up the Python Environment
 It is highly recommended to use a Python virtual environment to manage dependencies.
 
-# Create a virtual environment
+## Create a virtual environment
 python -m venv venv
 
-# Activate the virtual environment
-# On Windows:
+## Activate the virtual environment
+## On Windows:
 venv\Scripts\activate
-# On macOS/Linux:
+## On macOS/Linux:
 source venv/bin/activate
 
-# Install the required Python packages
+## Install the required Python packages
 pip install web3 pycryptodome numpy matplotlib pandas pytest flask
 
 Execution Workflow
@@ -69,10 +69,10 @@ Launch your Ganache UI instance or run the Ganache CLI in a separate terminal. E
 2. Compile and Deploy Smart Contracts
 Open a new terminal in the project's root directory.
 
-# Compile the smart contracts
+## Compile the smart contracts
 truffle compile
 
-# Deploy the contracts to your local Ganache network
+## Deploy the contracts to your local Ganache network
 truffle migrate
 
 
@@ -82,13 +82,13 @@ Ensure your Python virtual environment from Step 4 is activated.
 Main Experiment
 The main.py script runs the end-to-end data trading protocol simulation. You can control the size of the dataset used with command-line arguments.
 
-# Run with the default setting (all datasets)
+## Run with the default setting (all datasets)
 python main.py
 
-# Run with a specific dataset size
+## Run with a specific dataset size
 python main.py --dataset small
 python main.py --dataset medium
 python main.py --dataset large
 
-# Skip the initial setup verification (if already done)
+## Skip the initial setup verification (if already done)
 python main.py --skip-setup
