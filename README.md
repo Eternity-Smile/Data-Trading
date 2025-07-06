@@ -30,11 +30,7 @@ Before you begin, ensure you have the following software installed on your syste
 
 Please follow these steps in order to set up the project environment.
 
-### 1. Clone the Repository
-
-```bash
-git clone [https://github.com/yourusername/secure_data_trading.git](https://github.com/yourusername/secure_data_trading.git)
-cd secure_data_trading
+1. Clone the Repository
 
 2. Install Node.js Dependencies
 This step installs project-specific dependencies defined in package.json. Note that this will download a large number of packages into the node_modules directory, which is why it is not checked into version control.
