@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "HbolMJUevb",
+    "age": 31,
+    "email": "gpossklh@example.com",
+    "address": "UOiwolOfutsocygWepHUtkdJO TTuySisJLKdHCmyoXKlrOcRQ",
+    "phone": "4095724861",
+    "registration_date": "2024-11-13T11:21:46.171136",
+    "preferences": {
+      "color": "blue",
+      "food": "salad",
+      "activity": "travel"
+    }
+  },
+  {
+    "id": 1,
+    "name": "vewIthVdRe",
+    "age": 24,
+    "email": "tjdbyork@example.com",
+    "address": "UXwWcpqfAizSsDgolwDOGJDGIKboOWsjhIdNZeCtyiqrXFUiNc",
+    "phone": "0446425316",
+    "registration_date": "2023-08-06T11:21:46.171136",
+    "preferences": {
+      "color": "yellow",
+      "food": "salad",
+      "activity": "music"
+    }
+  },
+  {
+    "id": 2,
+    "name": "WJoCIjSakh",
+    "age": 70,
+    "email": "skcegvkx@example.com",
+    "address": "rOh MAZcxSsOYvObo AsXwKJeGQLeiLHNqfaqtohjxDvbseFru",
+    "phone": "2309995131",
+    "registration_date": "2024-05-31T11:21:46.171136",
+    "preferences": {
+      "color": "green",
+      "food": "pasta",
+      "activity": "sports"
+    }
+  },
+  {
+    "id": 3,
+    "name": "LIZnvubKDj",
+    "age": 64,
+    "email": "srqmyjhe@example.com",
+    "address": "IDpyNMDWYVIllUwVtFygcHEGzkgKCvUh s V hTjer qdxlOEi",
+    "phone": "7714444057",
+    "registration_date": "2022-08-06T11:21:46.171136",
+    "preferences": {
+      "color": "red",
+      "food": "sushi",
+      "activity": "travel"
+    }
+  },
+  {
+    "id": 4,
+    "name": "ExMTwHBVzl",
+    "age": 23,
+    "email": "ljghavwi@example.com",
+    "address": "yaWYzawpmatvDuiNuunwmOWQKpNQvTjpHGoHjbcCjfoLMmhAsq",
+    "phone": "7947389070",
+    "registration_date": "2023-12-10T11:21:46.171136",
+    "preferences": {
+      "color": "blue",
+      "food": "burger",
+      "activity": "music"
+    }
+  }
+]
